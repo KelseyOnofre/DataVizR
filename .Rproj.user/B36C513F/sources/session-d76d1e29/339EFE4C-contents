@@ -1,7 +1,0 @@
-name: Intro to R programming and data visualization
-output_dir: "."
-navbar: 
-  title: Data Visualization in R
-  left:
-  - text: Welcome
-    href: index.html
