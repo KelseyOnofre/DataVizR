@@ -1,7 +1,0 @@
----
-title: "Data Vizualization"
-author: Robin 
----
-
-Adapted from [Data Science for R](r4ds.had.co.nz) by Hadley Wichkam and Garrett Grolemund 
-
