@@ -11,6 +11,8 @@ navbar:
     href: IntrotoR.html
   - text: Graphing
     href: Graphing.html
+  - text: Networks
+    href: Networks.html
   
 output:
   html_document:
